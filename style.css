@@ -1,0 +1,22 @@
+body {
+
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+	text-transform: uppercase;
+	background-image: linear-gradient(to right, rgb(128,107,107), rgb(244,124,124));
+
+}
+
+.color1 {
+	margin: 40px;
+	border-color: black;
+	border-radius: 6px;
+	border-width: 5px;
+}
+
+.color2 {
+	margin: 40px;
+	border-color: black;
+	border-radius: 6px;
+	border-width: 5px;
+}
