@@ -1,3 +1,10 @@
+var _ = require('lodash');
+console.log(_);
+
+let array = [2, 3, 4, 5, 6];
+console.log("answer", _.without(array, 4));
+
+
 var input1 = document.querySelector(".color1");
 var input2 = document.querySelector(".color2");
 var css = document.querySelector("h3");
